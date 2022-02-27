@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the right honourable, and right reverend the general assembly of the church of Scotland, or their commissioners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88044</idno>
+            <idno type="STC">Wing L1749</idno>
+            <idno type="STC">Thomason 669.f.12[66]</idno>
+            <idno type="STC">ESTC R210929</idno>
+            <idno type="EEBO-CITATION">99869677</idno>
+            <idno type="PROQUEST">99869677</idno>
+            <idno type="VID">162859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162859)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f12[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the right honourable, and right reverend the general assembly of the church of Scotland, or their commissioners.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>for S.B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>July 6. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated: Westminster June 7. 1648; signed: Charles Herle, Prolocutor; W. Gouge Assessor; Henry Robrough Scriba.; Adoniram Byfield Scriba.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162859:1" rendition="simple:additions"/>
+            <head>A LETTER To the Right Honourable, and Right Reverend the Generall Aſſembly of the Church of <hi>Scotland,</hi> or their Commiſsioners. <hi>Theſe preſent,</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable, right Reverend, and dearly beloved Brethren in Jeſus Chriſt,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S VVe have great cauſe to bleſſe God for the brotherly union of theſe two Nations in the common Cauſe of Religion and Liberty, and for that good hand of bleſsing which hath accompanied the joynt indevors of both, in the proſecution thereof: ſo we cannot but be ſadly &amp; deep<g ref="char:EOLhyphen"/>ly ſenſible of thoſe many obſtructions and difficulties wherwith God in his wiſdome hath ſeen good to exerciſe his ſervants in both Kingdomes, in the carry<g ref="char:EOLhyphen"/>ing on of that work, wherein they ſtand ſo much ingaged. Herein Hee hath clearely manifeſted his own power, wiſdom, and goodneſſe, for our incouragement to truſt him in the managing of his own work; and our utter inabillity to effect it of our ſelves, thereby to train us up to a more humble and faithfull dependance upon him to do all, when we by our own wiſdome and ſtrength can do nothing. Our perplexities, we muſt confeſſe, are, and have bin many; and yet in the midſt of them all, we cannot but thankfully acknowledge it, as a to ken for good, &amp; that which hath bin &amp; ſtill is a great comfort and refreſhing to our hearts, that God hath given you wiſdom timely to fore<g ref="char:EOLhyphen"/>ſee approaching dangers, but eſpecially to behold, as the ſtedfaſtneſſe of your faith, in that both formerly you have bin, and at preſent are able to truſt God in ſtraits, and to appear for him in greateſt dangers; ſo your eminent faithfulnes and integrity, in your firm adhering to your firſt principles, and chiefly in your conſtancy and zeal for the preſervation and proſecution of the <hi>Solemn League and Covenant,</hi> ſo Religiouſly inga<g ref="char:EOLhyphen"/>ged in by both Kingdoms, in your vigorous purſuance whereof, with much thankful<g ref="char:EOLhyphen"/>neſſe to God, we are very ſenſible, more particularly, of your ſteering ſo ſteady and e<g ref="char:EOLhyphen"/>ven a courſe between the dangerous Rocks of <hi>profaneneſſe</hi> and <hi>malignancy</hi> on the one hand, and of <hi>error, ſchiſme, hereſie,</hi> and <hi>blaſphemy</hi> on the other hand; as alſo of your conſtant deſires and indevours to preſerve the peace and union between the two Na<g ref="char:EOLhyphen"/>tions ſo neerly, and ſo many wayes united. In all which wee humbly acknowledge the mercy and faithfulneſſe of God, in guiding You ſo graciouſly hitherto; &amp; through His aſsiſtance we ſhall ſtill be ready to afford You the beſt help and incouragement of our <hi>Prayers</hi> and <hi>Praiſes</hi> to God on Your behalf; Having this confidence, that he who hath already vouchſafed you and us ſo many bleſſed pledges of his <hi>Favour,</hi> will in his own time and way accompliſh his own <hi>Worke,</hi> which ſo much concerneth his own <hi>glory</hi> and his peoples <hi>good.</hi> To his moſt gracious protection and guidance, in theſe doubtfull and dangerous times, we humbly commend You and all Your holy indevours, and reſt</p>
+            <closer>
+               <signed>ubſcribed in the name, and by the appointment of the whole Aſſembly by us,
+<list>
+                     <item>
+                        <hi>Charles Herle,</hi> Prolocutor,</item>
+                     <item>
+                        <hi>W. Gouge</hi> Aſſeſſor.</item>
+                     <item>
+                        <hi>Henry Robrough</hi> Scriba.</item>
+                     <item>
+                        <hi>Adoniram Byfield</hi> Scriba.</item>
+                  </list>
+               </signed>
+               <dateline>Weſtminſter <date>June 7. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="approbation">
+            <p>This Letter was ſent with the Approbation of both Houſes of Parliament.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for S. B. July 6. 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
